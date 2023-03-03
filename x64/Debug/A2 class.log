@@ -1,0 +1,11 @@
+﻿  A2 class.cpp
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(54,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(55,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(56,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(57,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(64,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\A2 class.cpp(65,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  point.cpp
+C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\A2 class\point.cpp(35,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  A2 class.vcxproj -> C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 2\A2 class\x64\Debug\A2 class.exe
